@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menu {
+    margin: 47px 36px 956px 42px;
+    width: 83px;
+    color: #17233D;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.875px;
+    cursor: pointer;
+}
+
+.button-1 {
+    margin-top: 32px;
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.img {
+    margin-top: 194.2px;
+    margin-bottom: 279.9px;
+    margin-left: 182.18px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin: 342px 57px 290px 84.98px;
+}
+
+h1 {
+    width: 582px;
+    color: #161A49;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+}
+
+p {
+    margin-top: 47px;
+    margin-bottom: 55px;
+    width: 493px;
+    color: #4B505A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+}
+
+.link {
+    color: #6FBF44;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.menu:hover{
+    opacity: 0.8;
+}
+
+.menu:active{
+    opacity: 0.5;
+}
+
+.button-1:hover{
+    opacity: 0.8;
+}
+
+.button-1:active{
+    opacity: 0.5;
+}
+
+.link:hover{
+    opacity: 0.8;
+}
+
+.link:active{
+    opacity: 0.5;
+}
+
+img:hover{
+    opacity: 0.7;
+}
+
+h1:hover{
+    opacity: 0.7;
+}
+
+p:hover{
+    opacity: 0.7;
+}
